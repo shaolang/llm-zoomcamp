@@ -1,3 +1,6 @@
+.dlt
+.env
 .ipynb_checkpoints/
+.lancedb
 __pycache__/
 ollama_files/
